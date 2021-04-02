@@ -22,5 +22,7 @@
 
 ## ```ctrl + c```, ```ctrl + x``` --> copy, cut (in that order) BUT you don't have to highlight text. It will copy or cut the whole line your cursor is currently on. (Great for deleting extra lines)
 
+![](copy_cut.gif)
+
 
 > Feel free to open a pull request and add ones you use frequently!
