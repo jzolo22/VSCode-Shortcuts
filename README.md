@@ -16,7 +16,7 @@
 
 ![](settings.gif)
 
-## ```option + shift + up OR down arrow ``` --> copy everything on that line OR everything that's highlighted onto the line above or the line below
+## ```option + shift + <up OR down arrow> ``` --> copy everything on that line OR everything that's highlighted onto the line above or the line below
 
 ![](copy_shortcut.gif)
 
