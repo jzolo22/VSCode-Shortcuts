@@ -16,8 +16,10 @@
 
 ![](settings.gif)
 
-## ```option + shift + up OR down arrow ``` --> copy everything on that line or everything that's highlighted onto the line above or the line below
-## ```option + shift + up OR down arrow ``` --> copy everything on that line or everything that's highlighted onto the line above or the line below
+## ```option + shift + up OR down arrow ``` --> copy everything on that line OR everything that's highlighted onto the line above or the line below
+
+![](copy_shortcut.gif)
+
 ## ```ctrl + c```, ```ctrl + x``` --> copy, cut (in that order) BUT you don't have to highlight text. It will copy or cut the whole line your cursor is currently on. (Great for deleting extra lines)
 
 
