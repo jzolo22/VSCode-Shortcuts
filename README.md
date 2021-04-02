@@ -7,4 +7,6 @@
 - ```option + shift + up OR down arrow ``` --> copy everything on that line or everything that's highlighted onto the line above or the line below
 - ```option + shift + up OR down arrow ``` --> copy everything on that line or everything that's highlighted onto the line above or the line below
 - ```ctrl + c```, ```ctrl + v```, ```ctrl + x``` --> copy, paste, cut (in that order) BUT you don't have to highlight text. It will copy or paste or cut the whole line your cursor is currently on. (Great for deleting extra lines)
-- 
+
+
+> Feel free to open a pull request and add ones you use frequently!
