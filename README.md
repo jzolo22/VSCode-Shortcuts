@@ -5,6 +5,10 @@
 ![](terminal.gif)
 
 - ```ctrl + tab ``` --> toggle between the last two files you were working on
+
+![](file_toggle.gif)
+
+
 - ```cmd + b``` --> toggle the folder view on and off
 - ```cmd + shift + p ``` --> open settings search
 - ```option + shift + up OR down arrow ``` --> copy everything on that line or everything that's highlighted onto the line above or the line below
