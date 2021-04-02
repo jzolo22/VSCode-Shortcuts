@@ -1,7 +1,9 @@
 # VSCode Shortcuts (on a Mac)
 
 - ```ctrl + ` ``` --> toggle the built-in terminal on and off
-![](terminal_toggle.mov)
+  
+![](terminal.gif)
+
 - ```ctrl + tab ``` --> toggle between the last two files you were working on
 - ```cmd + b``` --> toggle the folder view on and off
 - ```cmd + shift + p ``` --> open settings search
