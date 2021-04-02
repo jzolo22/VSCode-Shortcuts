@@ -24,5 +24,9 @@
 
 ![](copy_cut.gif)
 
+## highlight some text, then ```cmd + d``` --> highlight and edit other occurrences of the same text in multiple places at once
+
+![](cmd_d.gif)
+
 
 > Feel free to open a pull request and add ones you use frequently!
